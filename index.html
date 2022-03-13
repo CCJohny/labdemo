@@ -10,13 +10,32 @@
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/element-plus/dist/index.css"
     /> -->
-    <script type="module" crossorigin src="/assets/index.3f892856.js"></script>
-    <link rel="modulepreload" href="/assets/vendor.3b5d38ad.js">
-    <link rel="stylesheet" href="/assets/vendor.e1c50725.css">
+    <script type="module" crossorigin src="/assets/index.035c912f.js"></script>
+    <link rel="modulepreload" href="/assets/vendor.1cd039fd.js">
+    <link rel="stylesheet" href="/assets/vendor.fe48b6d9.css">
     <link rel="stylesheet" href="/assets/index.643bc916.css">
   </head>
   <body>
     <div id="app"></div>
     
+    <template>
+      Scroll down to see the bottom-right button.
+      <el-backtop :bottom="100">
+        <div
+          style="
+            height: 100%;
+            width: 100%;
+            background-color: #f2f5f6;
+            box-shadow: 0 0 6px rgba(0, 0, 0, 0.12);
+            text-align: center;
+            line-height: 40px;
+            color: #1989fa;
+          "
+        >
+          UP
+        </div>
+      </el-backtop>
+    </template>
+
   </body>
 </html>

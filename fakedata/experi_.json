@@ -1,0 +1,26 @@
+﻿{
+    "exprName": "模拟实验",
+    "exprLabName": "创新实验室",
+    "appli_proc": [
+        {
+          "content": "申请结果",
+          "timestamp": "finish_time",
+          "type": "finish_status"
+        },
+        {
+          "content": "费用缴纳",
+          "timestamp": "pay_time",
+          "type": "pay_status"
+        },
+        {
+          "content": "实验室审批",
+          "timestamp": "check_time",
+          "type": "check_status"
+        },
+        {
+          "content": "提交申请",
+          "timestamp": "submit_time",
+          "type": "submit_status"
+        }
+    ]
+}

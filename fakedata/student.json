@@ -1,0 +1,9 @@
+{
+    "userName": "张三",
+    "userPhone": "12300123000",
+    "userId": "202100004500",
+    "userSchool": "测试学院",
+    "userMajor": "测试专业",
+    "userStatus": "正常",
+    "userStatusCode": "success"
+}

@@ -1,0 +1,9 @@
+{
+    "userName": "张三",
+    "userPhone": "12300123000",
+    "userId": "202212345678",
+    "userSchool": "未来技术学院",
+    "userMajor": "人工智能",
+    "userStatus": "警告",
+    "userStatusCode": "warning"
+}
